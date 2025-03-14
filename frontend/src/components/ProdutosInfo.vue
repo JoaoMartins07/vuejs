@@ -34,6 +34,15 @@
                         </p>
                     </div>
                 </div>
+                <div class="col-md-4 footer-col">
+                    <div class="footer_detail">
+                        <p>
+                            QUANTIDADE
+                            <br>
+                            {{ produto.qtd }} €
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </footer>
