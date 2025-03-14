@@ -15,6 +15,14 @@
                             {{ produto.id }}
                         </p>
                     </div>
+                      <div class="col-md-4 footer-col">
+                    <div class="footer_detail">
+                        <p>
+                            IDCATEGORIA #
+                            <br>
+                            {{ produto.idcategoria }}
+                        </p>
+                    </div>
                 </div>
                 <div class="col-md-4 footer-col">
                     <div class="footer_detail">
